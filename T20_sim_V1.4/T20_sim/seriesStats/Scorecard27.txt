@@ -1,0 +1,283 @@
+
+Match Number 27 of the series.
+
+SRH vs RCB
+
+{'pace': 0.5, 'spin': 1.5, 'flat': 1.0}
+
+SRH won the toss and decide to bowl first.
+
+{'SRH': ['SP Goswami', 'S Dhawan', 'KS Williamson', 'Shakib Al Hasan', 'YK Pathan', 'DJ Hooda', 'CR Brathwaite', 'Rashid Khan', 'B Kumar', 'S Kaul', 'Sandeep Sharma']}
+
+{'RCB': ['CH Gayle', 'V Kohli', 'AB de Villiers', 'KL Rahul', 'SR Watson', 'Sachin Baby', 'STR Binny', 'CJ Jordan', 'Iqbal Abdulla', 'S Aravind', 'YS Chahal']}
+
+Innings 1
+
+Batting Scorecard
+        RCB         		Runs Balls
+      CH Gayle         OUT      30 ( 7  )
+      V Kohli          OUT      25 ( 22 )
+   AB de Villiers      OUT      14 ( 12 )
+      KL Rahul         OUT      22 ( 11 )
+     SR Watson         OUT      10 ( 12 )
+    Sachin Baby        OUT      11 ( 18 )
+     STR Binny         OUT      17 ( 13 )
+     CJ Jordan         OUT      15 ( 7  )
+   Iqbal Abdulla       OUT      6  ( 4  )
+     S Aravind       Not Out    1  ( 1  )
+     YS Chahal         OUT      0  ( 1  )
+Extras : 0
+
+Bowling Scorecard
+        SRH         	Overs	Runs	Wickets
+  Shakib Al Hasan   	 4.0 	 30 	   2   
+     YK Pathan      	 4.0 	 21 	   1   
+    Rashid Khan     	 4.0 	 29 	   2   
+      B Kumar       	 3.0 	 24 	   2   
+       S Kaul       	 1.0 	 6  	   3   
+   Sandeep Sharma   	 2.0 	 41 	   0   
+
+
+RCB	151/10	in	18 overs
+
+Target - 152
+
+
+Innings 2
+
+Batting Scorecard
+        SRH         		Runs Balls
+     SP Goswami        OUT      11 ( 20 )
+      S Dhawan         OUT      43 ( 37 )
+   KS Williamson       OUT      28 ( 16 )
+  Shakib Al Hasan      OUT      13 ( 7  )
+     YK Pathan         OUT      21 ( 16 )
+      DJ Hooda         OUT      6  ( 2  )
+   CR Brathwaite     Not Out    22 ( 13 )
+    Rashid Khan      Not Out    8  ( 6  )
+      B Kumar          DNB      0  ( 0  )
+       S Kaul          DNB      0  ( 0  )
+   Sandeep Sharma      DNB      0  ( 0  )
+Extras : 4
+
+Bowling Scorecard
+        RCB         	Overs	Runs	Wickets
+      CH Gayle      	 4.0 	 31 	   1   
+     SR Watson      	 1.2 	 14 	   0   
+     CJ Jordan      	 3.0 	 30 	   1   
+   Iqbal Abdulla    	 4.0 	 36 	   0   
+     S Aravind      	 3.0 	 7  	   0   
+     YS Chahal      	 4.0 	 38 	   4   
+
+
+SRH	156/6	in	19 overs 	TARGET : 152
+
+
+
+SRH beat RCB by 4 wickets with 4 balls remaining.
+
+
+
+SRH	44/0	in	6 overs
+
+SRH	103/6	in	16 overs
+
+RCB	67/1	in	6 overs 	TARGET : 119
+
+SRH	36/1	in	6 overs
+
+SRH	112/2	in	16 overs
+
+RCB	36/1	in	6 overs 	TARGET : 166
+
+RCB	121/3	in	16 overs 	TARGET : 166
+
+RCB	52/2	in	6 overs
+
+RCB	130/5	in	16 overs
+
+SRH	37/1	in	6 overs 	TARGET : 171
+
+SRH	137/3	in	16 overs 	TARGET : 171
+
+SRH	49/0	in	6 overs
+
+SRH	107/6	in	16 overs
+
+RCB	50/0	in	6 overs 	TARGET : 118
+
+SRH	48/1	in	6 overs
+
+SRH	125/3	in	16 overs
+
+RCB	45/1	in	6 overs 	TARGET : 175
+
+RCB	115/3	in	16 overs 	TARGET : 175
+
+RCB	43/2	in	6 overs
+
+RCB	114/4	in	16 overs
+
+SRH	32/1	in	6 overs 	TARGET : 137
+
+SRH	116/2	in	16 overs 	TARGET : 137
+
+SRH	57/1	in	6 overs
+
+SRH	110/7	in	16 overs
+
+RCB	31/4	in	6 overs 	TARGET : 113
+
+SRH	31/0	in	6 overs
+
+SRH	134/2	in	16 overs
+
+RCB	47/1	in	6 overs 	TARGET : 175
+
+RCB	119/7	in	16 overs 	TARGET : 175
+
+RCB	33/1	in	6 overs
+
+RCB	110/5	in	16 overs
+
+SRH	32/2	in	6 overs 	TARGET : 135
+
+SRH	106/3	in	16 overs 	TARGET : 135
+
+RCB	61/0	in	6 overs
+
+RCB	151/2	in	16 overs
+
+SRH	41/1	in	6 overs 	TARGET : 205
+
+SRH	125/6	in	16 overs 	TARGET : 205
+
+SRH	21/1	in	6 overs
+
+SRH	87/7	in	16 overs
+
+RCB	64/1	in	6 overs 	TARGET : 126
+
+RCB	58/1	in	6 overs
+
+RCB	153/5	in	16 overs
+
+SRH	34/3	in	6 overs 	TARGET : 181
+
+SRH	142/4	in	16 overs 	TARGET : 181
+
+RCB	46/3	in	6 overs
+
+RCB	103/5	in	16 overs
+
+SRH	33/1	in	6 overs 	TARGET : 138
+
+SRH	112/2	in	16 overs 	TARGET : 138
+
+SRH	30/1	in	6 overs
+
+SRH	108/6	in	16 overs
+
+RCB	53/1	in	6 overs 	TARGET : 139
+
+RCB	130/1	in	16 overs 	TARGET : 139
+
+RCB	53/3	in	6 overs
+
+RCB	105/9	in	16 overs
+
+SRH	38/2	in	6 overs 	TARGET : 132
+
+SRH	105/3	in	16 overs 	TARGET : 132
+
+RCB	48/1	in	6 overs
+
+RCB	109/6	in	16 overs
+
+SRH	46/0	in	6 overs 	TARGET : 131
+
+SRH	112/3	in	16 overs 	TARGET : 131
+
+RCB	36/2	in	6 overs
+
+RCB	100/8	in	16 overs
+
+SRH	37/2	in	6 overs 	TARGET : 109
+
+SRH	102/2	in	16 overs 	TARGET : 109
+
+RCB	45/1	in	6 overs
+
+RCB	128/3	in	16 overs
+
+SRH	43/0	in	6 overs 	TARGET : 145
+
+SRH	130/2	in	16 overs 	TARGET : 145
+
+SRH	52/1	in	6 overs
+
+RCB	60/2	in	6 overs 	TARGET : 99
+
+SRH	45/1	in	6 overs
+
+SRH	133/3	in	16 overs
+
+RCB	47/3	in	6 overs 	TARGET : 180
+
+RCB	128/5	in	16 overs 	TARGET : 180
+
+RCB	44/0	in	6 overs
+
+RCB	121/4	in	16 overs
+
+SRH	40/0	in	6 overs 	TARGET : 152
+
+SRH	104/8	in	16 overs 	TARGET : 152
+
+SRH	43/2	in	6 overs
+
+SRH	110/5	in	16 overs
+
+RCB	26/3	in	6 overs 	TARGET : 150
+
+RCB	96/8	in	16 overs 	TARGET : 150
+
+SRH	44/1	in	6 overs
+
+SRH	105/6	in	16 overs
+
+RCB	60/1	in	6 overs 	TARGET : 121
+
+RCB	116/3	in	16 overs 	TARGET : 121
+
+SRH	25/1	in	6 overs
+
+SRH	130/4	in	16 overs
+
+RCB	54/0	in	6 overs 	TARGET : 159
+
+RCB	140/3	in	16 overs 	TARGET : 159
+
+RCB	47/1	in	6 overs
+
+RCB	104/5	in	16 overs
+
+SRH	35/2	in	6 overs 	TARGET : 132
+
+SRH	113/4	in	16 overs 	TARGET : 132
+
+SRH	44/1	in	6 overs
+
+SRH	143/2	in	16 overs
+
+RCB	51/1	in	6 overs 	TARGET : 186
+
+RCB	120/7	in	16 overs 	TARGET : 186
+
+RCB	64/2	in	6 overs
+
+RCB	132/6	in	16 overs
+
+SRH	29/0	in	6 overs 	TARGET : 152
+
+SRH	121/5	in	16 overs 	TARGET : 152

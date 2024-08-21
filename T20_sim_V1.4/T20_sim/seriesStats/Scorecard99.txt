@@ -1,0 +1,835 @@
+
+Match Number 99 of the series.
+
+SRH vs RCB
+
+{'pace': 0.5, 'spin': 1.5, 'flat': 1.0}
+
+SRH won the toss and decide to bowl first.
+
+{'SRH': ['SP Goswami', 'S Dhawan', 'KS Williamson', 'Shakib Al Hasan', 'YK Pathan', 'DJ Hooda', 'CR Brathwaite', 'Rashid Khan', 'B Kumar', 'S Kaul', 'Sandeep Sharma']}
+
+{'RCB': ['CH Gayle', 'V Kohli', 'AB de Villiers', 'KL Rahul', 'SR Watson', 'Sachin Baby', 'STR Binny', 'CJ Jordan', 'Iqbal Abdulla', 'S Aravind', 'YS Chahal']}
+
+Innings 1
+
+Batting Scorecard
+        RCB         		Runs Balls
+      CH Gayle       Not Out    69 ( 43 )
+      V Kohli          OUT      47 ( 42 )
+   AB de Villiers      OUT      15 ( 9  )
+      KL Rahul         OUT      0  ( 2  )
+     SR Watson         OUT      17 ( 14 )
+    Sachin Baby        OUT      14 ( 8  )
+     STR Binny       Not Out    5  ( 2  )
+     CJ Jordan         DNB      0  ( 0  )
+   Iqbal Abdulla       DNB      0  ( 0  )
+     S Aravind         DNB      0  ( 0  )
+     YS Chahal         DNB      0  ( 0  )
+Extras : 5
+
+Bowling Scorecard
+        SRH         	Overs	Runs	Wickets
+  Shakib Al Hasan   	 4.0 	 35 	   1   
+     YK Pathan      	 4.0 	 43 	   1   
+    Rashid Khan     	 4.0 	 30 	   1   
+      B Kumar       	 4.0 	 26 	   1   
+       S Kaul       	 2.0 	 27 	   1   
+   Sandeep Sharma   	 2.0 	 11 	   0   
+
+
+RCB	172/5	in	20 overs
+
+Target - 173
+
+
+Innings 2
+
+Batting Scorecard
+        SRH         		Runs Balls
+     SP Goswami        OUT      3  ( 10 )
+      S Dhawan         OUT      26 ( 18 )
+   KS Williamson       OUT      26 ( 19 )
+  Shakib Al Hasan      OUT      16 ( 12 )
+     YK Pathan         OUT      15 ( 12 )
+      DJ Hooda         OUT      22 ( 19 )
+   CR Brathwaite     Not Out    39 ( 25 )
+    Rashid Khan        OUT      2  ( 2  )
+      B Kumar        Not Out    6  ( 3  )
+       S Kaul          DNB      0  ( 0  )
+   Sandeep Sharma      DNB      0  ( 0  )
+Extras : 3
+
+Bowling Scorecard
+        RCB         	Overs	Runs	Wickets
+      CH Gayle      	 4.0 	 28 	   1   
+     SR Watson      	 2.0 	 21 	   0   
+     CJ Jordan      	 3.0 	 23 	   2   
+   Iqbal Abdulla    	 4.0 	 27 	   2   
+     S Aravind      	 3.0 	 27 	   0   
+     YS Chahal      	 4.0 	 32 	   2   
+
+
+SRH	158/7	in	20 overs 	TARGET : 173
+
+
+
+RCB beat SRH by 14 runs.
+
+
+
+SRH	44/0	in	6 overs
+
+SRH	103/6	in	16 overs
+
+RCB	67/1	in	6 overs 	TARGET : 119
+
+SRH	36/1	in	6 overs
+
+SRH	112/2	in	16 overs
+
+RCB	36/1	in	6 overs 	TARGET : 166
+
+RCB	121/3	in	16 overs 	TARGET : 166
+
+RCB	52/2	in	6 overs
+
+RCB	130/5	in	16 overs
+
+SRH	37/1	in	6 overs 	TARGET : 171
+
+SRH	137/3	in	16 overs 	TARGET : 171
+
+SRH	49/0	in	6 overs
+
+SRH	107/6	in	16 overs
+
+RCB	50/0	in	6 overs 	TARGET : 118
+
+SRH	48/1	in	6 overs
+
+SRH	125/3	in	16 overs
+
+RCB	45/1	in	6 overs 	TARGET : 175
+
+RCB	115/3	in	16 overs 	TARGET : 175
+
+RCB	43/2	in	6 overs
+
+RCB	114/4	in	16 overs
+
+SRH	32/1	in	6 overs 	TARGET : 137
+
+SRH	116/2	in	16 overs 	TARGET : 137
+
+SRH	57/1	in	6 overs
+
+SRH	110/7	in	16 overs
+
+RCB	31/4	in	6 overs 	TARGET : 113
+
+SRH	31/0	in	6 overs
+
+SRH	134/2	in	16 overs
+
+RCB	47/1	in	6 overs 	TARGET : 175
+
+RCB	119/7	in	16 overs 	TARGET : 175
+
+RCB	33/1	in	6 overs
+
+RCB	110/5	in	16 overs
+
+SRH	32/2	in	6 overs 	TARGET : 135
+
+SRH	106/3	in	16 overs 	TARGET : 135
+
+RCB	61/0	in	6 overs
+
+RCB	151/2	in	16 overs
+
+SRH	41/1	in	6 overs 	TARGET : 205
+
+SRH	125/6	in	16 overs 	TARGET : 205
+
+SRH	21/1	in	6 overs
+
+SRH	87/7	in	16 overs
+
+RCB	64/1	in	6 overs 	TARGET : 126
+
+RCB	58/1	in	6 overs
+
+RCB	153/5	in	16 overs
+
+SRH	34/3	in	6 overs 	TARGET : 181
+
+SRH	142/4	in	16 overs 	TARGET : 181
+
+RCB	46/3	in	6 overs
+
+RCB	103/5	in	16 overs
+
+SRH	33/1	in	6 overs 	TARGET : 138
+
+SRH	112/2	in	16 overs 	TARGET : 138
+
+SRH	30/1	in	6 overs
+
+SRH	108/6	in	16 overs
+
+RCB	53/1	in	6 overs 	TARGET : 139
+
+RCB	130/1	in	16 overs 	TARGET : 139
+
+RCB	53/3	in	6 overs
+
+RCB	105/9	in	16 overs
+
+SRH	38/2	in	6 overs 	TARGET : 132
+
+SRH	105/3	in	16 overs 	TARGET : 132
+
+RCB	48/1	in	6 overs
+
+RCB	109/6	in	16 overs
+
+SRH	46/0	in	6 overs 	TARGET : 131
+
+SRH	112/3	in	16 overs 	TARGET : 131
+
+RCB	36/2	in	6 overs
+
+RCB	100/8	in	16 overs
+
+SRH	37/2	in	6 overs 	TARGET : 109
+
+SRH	102/2	in	16 overs 	TARGET : 109
+
+RCB	45/1	in	6 overs
+
+RCB	128/3	in	16 overs
+
+SRH	43/0	in	6 overs 	TARGET : 145
+
+SRH	130/2	in	16 overs 	TARGET : 145
+
+SRH	52/1	in	6 overs
+
+RCB	60/2	in	6 overs 	TARGET : 99
+
+SRH	45/1	in	6 overs
+
+SRH	133/3	in	16 overs
+
+RCB	47/3	in	6 overs 	TARGET : 180
+
+RCB	128/5	in	16 overs 	TARGET : 180
+
+RCB	44/0	in	6 overs
+
+RCB	121/4	in	16 overs
+
+SRH	40/0	in	6 overs 	TARGET : 152
+
+SRH	104/8	in	16 overs 	TARGET : 152
+
+SRH	43/2	in	6 overs
+
+SRH	110/5	in	16 overs
+
+RCB	26/3	in	6 overs 	TARGET : 150
+
+RCB	96/8	in	16 overs 	TARGET : 150
+
+SRH	44/1	in	6 overs
+
+SRH	105/6	in	16 overs
+
+RCB	60/1	in	6 overs 	TARGET : 121
+
+RCB	116/3	in	16 overs 	TARGET : 121
+
+SRH	25/1	in	6 overs
+
+SRH	130/4	in	16 overs
+
+RCB	54/0	in	6 overs 	TARGET : 159
+
+RCB	140/3	in	16 overs 	TARGET : 159
+
+RCB	47/1	in	6 overs
+
+RCB	104/5	in	16 overs
+
+SRH	35/2	in	6 overs 	TARGET : 132
+
+SRH	113/4	in	16 overs 	TARGET : 132
+
+SRH	44/1	in	6 overs
+
+SRH	143/2	in	16 overs
+
+RCB	51/1	in	6 overs 	TARGET : 186
+
+RCB	120/7	in	16 overs 	TARGET : 186
+
+RCB	64/2	in	6 overs
+
+RCB	132/6	in	16 overs
+
+SRH	29/0	in	6 overs 	TARGET : 152
+
+SRH	121/5	in	16 overs 	TARGET : 152
+
+SRH	35/1	in	6 overs
+
+SRH	114/3	in	16 overs
+
+RCB	43/0	in	6 overs 	TARGET : 162
+
+RCB	137/2	in	16 overs 	TARGET : 162
+
+SRH	28/1	in	6 overs
+
+SRH	107/2	in	16 overs
+
+RCB	57/1	in	6 overs 	TARGET : 163
+
+RCB	141/3	in	16 overs 	TARGET : 163
+
+RCB	21/3	in	6 overs
+
+RCB	64/8	in	16 overs
+
+SRH	30/0	in	6 overs 	TARGET : 70
+
+SRH	52/1	in	6 overs
+
+SRH	104/4	in	16 overs
+
+RCB	38/2	in	6 overs 	TARGET : 164
+
+RCB	107/8	in	16 overs 	TARGET : 164
+
+RCB	73/3	in	6 overs
+
+RCB	148/9	in	16 overs
+
+SRH	31/2	in	6 overs 	TARGET : 157
+
+SRH	113/5	in	16 overs 	TARGET : 157
+
+RCB	39/1	in	6 overs
+
+RCB	127/2	in	16 overs
+
+SRH	24/1	in	6 overs 	TARGET : 176
+
+SRH	109/4	in	16 overs 	TARGET : 176
+
+RCB	46/1	in	6 overs
+
+RCB	108/8	in	16 overs
+
+SRH	53/0	in	6 overs 	TARGET : 140
+
+SRH	114/3	in	16 overs 	TARGET : 140
+
+SRH	39/2	in	6 overs
+
+SRH	117/5	in	16 overs
+
+RCB	42/1	in	6 overs 	TARGET : 162
+
+RCB	109/3	in	16 overs 	TARGET : 162
+
+SRH	57/2	in	6 overs
+
+SRH	128/4	in	16 overs
+
+RCB	41/1	in	6 overs 	TARGET : 167
+
+RCB	121/2	in	16 overs 	TARGET : 167
+
+RCB	48/1	in	6 overs
+
+RCB	125/6	in	16 overs
+
+SRH	38/1	in	6 overs 	TARGET : 164
+
+SRH	116/4	in	16 overs 	TARGET : 164
+
+RCB	26/4	in	6 overs
+
+SRH	51/1	in	6 overs 	TARGET : 53
+
+SRH	52/0	in	6 overs
+
+SRH	128/3	in	16 overs
+
+RCB	41/1	in	6 overs 	TARGET : 151
+
+RCB	125/4	in	16 overs 	TARGET : 151
+
+RCB	22/3	in	6 overs
+
+RCB	96/6	in	16 overs
+
+SRH	56/0	in	6 overs 	TARGET : 124
+
+SRH	117/2	in	16 overs 	TARGET : 124
+
+SRH	37/2	in	6 overs
+
+SRH	105/4	in	16 overs
+
+RCB	44/1	in	6 overs 	TARGET : 147
+
+RCB	103/7	in	16 overs 	TARGET : 147
+
+RCB	30/1	in	6 overs
+
+RCB	70/9	in	16 overs
+
+SRH	45/0	in	6 overs 	TARGET : 71
+
+SRH	38/3	in	6 overs
+
+SRH	114/6	in	16 overs
+
+RCB	41/0	in	6 overs 	TARGET : 142
+
+RCB	123/2	in	16 overs 	TARGET : 142
+
+RCB	68/0	in	6 overs
+
+RCB	112/6	in	16 overs
+
+SRH	40/2	in	6 overs 	TARGET : 118
+
+SRH	113/3	in	16 overs 	TARGET : 118
+
+SRH	24/2	in	6 overs
+
+SRH	109/2	in	16 overs
+
+RCB	39/1	in	6 overs 	TARGET : 148
+
+RCB	124/5	in	16 overs 	TARGET : 148
+
+SRH	48/1	in	6 overs
+
+SRH	145/3	in	16 overs
+
+RCB	41/2	in	6 overs 	TARGET : 186
+
+RCB	124/3	in	16 overs 	TARGET : 186
+
+SRH	37/1	in	6 overs
+
+SRH	90/9	in	16 overs
+
+RCB	53/1	in	6 overs 	TARGET : 91
+
+RCB	36/2	in	6 overs
+
+RCB	128/6	in	16 overs
+
+SRH	37/2	in	6 overs 	TARGET : 153
+
+SRH	98/8	in	16 overs 	TARGET : 153
+
+RCB	46/1	in	6 overs
+
+RCB	111/3	in	16 overs
+
+SRH	50/2	in	6 overs 	TARGET : 145
+
+SRH	126/6	in	16 overs 	TARGET : 145
+
+RCB	49/3	in	6 overs
+
+RCB	111/6	in	16 overs
+
+SRH	45/1	in	6 overs 	TARGET : 163
+
+SRH	133/3	in	16 overs 	TARGET : 163
+
+RCB	52/1	in	6 overs
+
+RCB	119/5	in	16 overs
+
+SRH	42/4	in	6 overs 	TARGET : 148
+
+SRH	102/9	in	16 overs 	TARGET : 148
+
+SRH	35/0	in	6 overs
+
+SRH	109/2	in	16 overs
+
+RCB	64/1	in	6 overs 	TARGET : 155
+
+RCB	139/3	in	16 overs 	TARGET : 155
+
+RCB	73/0	in	6 overs
+
+RCB	159/2	in	16 overs
+
+SRH	53/0	in	6 overs 	TARGET : 197
+
+SRH	120/7	in	16 overs 	TARGET : 197
+
+SRH	50/0	in	6 overs
+
+SRH	112/7	in	16 overs
+
+RCB	41/2	in	6 overs 	TARGET : 155
+
+RCB	104/7	in	16 overs 	TARGET : 155
+
+RCB	47/0	in	6 overs
+
+RCB	141/3	in	16 overs
+
+SRH	46/1	in	6 overs 	TARGET : 169
+
+SRH	129/7	in	16 overs 	TARGET : 169
+
+SRH	29/2	in	6 overs
+
+SRH	106/5	in	16 overs
+
+RCB	33/2	in	6 overs 	TARGET : 147
+
+RCB	109/6	in	16 overs 	TARGET : 147
+
+SRH	39/1	in	6 overs
+
+SRH	111/3	in	16 overs
+
+RCB	54/3	in	6 overs 	TARGET : 142
+
+RCB	112/7	in	16 overs 	TARGET : 142
+
+RCB	38/1	in	6 overs
+
+RCB	104/5	in	16 overs
+
+SRH	32/1	in	6 overs 	TARGET : 135
+
+SRH	104/3	in	16 overs 	TARGET : 135
+
+SRH	25/4	in	6 overs
+
+RCB	49/1	in	6 overs 	TARGET : 100
+
+RCB	37/2	in	6 overs
+
+RCB	116/5	in	16 overs
+
+SRH	23/2	in	6 overs 	TARGET : 162
+
+RCB	44/1	in	6 overs
+
+RCB	120/6	in	16 overs
+
+SRH	35/0	in	6 overs 	TARGET : 152
+
+SRH	130/3	in	16 overs 	TARGET : 152
+
+RCB	30/1	in	6 overs
+
+RCB	97/8	in	16 overs
+
+SRH	31/0	in	6 overs 	TARGET : 99
+
+SRH	97/3	in	16 overs 	TARGET : 99
+
+SRH	34/1	in	6 overs
+
+SRH	118/4	in	16 overs
+
+RCB	43/1	in	6 overs 	TARGET : 161
+
+RCB	135/2	in	16 overs 	TARGET : 161
+
+RCB	50/1	in	6 overs
+
+RCB	120/4	in	16 overs
+
+SRH	43/2	in	6 overs 	TARGET : 155
+
+SRH	120/4	in	16 overs 	TARGET : 155
+
+RCB	41/1	in	6 overs
+
+RCB	127/3	in	16 overs
+
+SRH	32/1	in	6 overs 	TARGET : 179
+
+SRH	118/5	in	16 overs 	TARGET : 179
+
+RCB	58/1	in	6 overs
+
+RCB	140/2	in	16 overs
+
+SRH	28/3	in	6 overs 	TARGET : 170
+
+SRH	121/4	in	16 overs 	TARGET : 170
+
+RCB	57/1	in	6 overs
+
+RCB	120/5	in	16 overs
+
+SRH	56/1	in	6 overs 	TARGET : 160
+
+SRH	125/3	in	16 overs 	TARGET : 160
+
+RCB	41/1	in	6 overs
+
+RCB	124/3	in	16 overs
+
+SRH	44/2	in	6 overs 	TARGET : 158
+
+SRH	132/5	in	16 overs 	TARGET : 158
+
+SRH	37/1	in	6 overs
+
+RCB	68/0	in	6 overs 	TARGET : 109
+
+RCB	55/0	in	6 overs
+
+RCB	140/3	in	16 overs
+
+SRH	28/2	in	6 overs 	TARGET : 174
+
+SRH	102/8	in	16 overs 	TARGET : 174
+
+SRH	16/1	in	6 overs
+
+SRH	104/2	in	16 overs
+
+RCB	51/1	in	6 overs 	TARGET : 138
+
+RCB	136/4	in	16 overs 	TARGET : 138
+
+SRH	33/3	in	6 overs
+
+SRH	102/7	in	16 overs
+
+RCB	44/4	in	6 overs 	TARGET : 122
+
+RCB	100/5	in	16 overs 	TARGET : 122
+
+RCB	57/2	in	6 overs
+
+RCB	133/4	in	16 overs
+
+SRH	31/0	in	6 overs 	TARGET : 178
+
+SRH	105/3	in	16 overs 	TARGET : 178
+
+RCB	53/2	in	6 overs
+
+RCB	112/5	in	16 overs
+
+SRH	33/1	in	6 overs 	TARGET : 149
+
+SRH	114/3	in	16 overs 	TARGET : 149
+
+SRH	44/1	in	6 overs
+
+SRH	132/5	in	16 overs
+
+RCB	74/1	in	6 overs 	TARGET : 151
+
+RCB	145/2	in	16 overs 	TARGET : 151
+
+SRH	49/1	in	6 overs
+
+SRH	127/5	in	16 overs
+
+RCB	66/0	in	6 overs 	TARGET : 165
+
+RCB	147/2	in	16 overs 	TARGET : 165
+
+RCB	46/1	in	6 overs
+
+RCB	131/4	in	16 overs
+
+SRH	44/1	in	6 overs 	TARGET : 161
+
+SRH	132/1	in	16 overs 	TARGET : 161
+
+SRH	41/1	in	6 overs
+
+SRH	117/6	in	16 overs
+
+RCB	50/1	in	6 overs 	TARGET : 147
+
+RCB	124/3	in	16 overs 	TARGET : 147
+
+RCB	54/0	in	6 overs
+
+RCB	140/4	in	16 overs
+
+SRH	51/0	in	6 overs 	TARGET : 194
+
+SRH	157/3	in	16 overs 	TARGET : 194
+
+SRH	36/2	in	6 overs
+
+SRH	85/4	in	16 overs
+
+RCB	50/2	in	6 overs 	TARGET : 128
+
+RCB	103/8	in	16 overs 	TARGET : 128
+
+RCB	61/2	in	6 overs
+
+RCB	130/8	in	16 overs
+
+SRH	35/1	in	6 overs 	TARGET : 134
+
+SRH	98/3	in	16 overs 	TARGET : 134
+
+SRH	33/2	in	6 overs
+
+SRH	111/2	in	16 overs
+
+RCB	54/1	in	6 overs 	TARGET : 162
+
+RCB	140/3	in	16 overs 	TARGET : 162
+
+SRH	42/1	in	6 overs
+
+SRH	127/7	in	16 overs
+
+RCB	36/2	in	6 overs 	TARGET : 133
+
+RCB	98/9	in	16 overs 	TARGET : 133
+
+RCB	47/1	in	6 overs
+
+RCB	145/3	in	16 overs
+
+SRH	43/0	in	6 overs 	TARGET : 182
+
+SRH	151/1	in	16 overs 	TARGET : 182
+
+SRH	23/1	in	6 overs
+
+SRH	96/7	in	16 overs
+
+RCB	31/2	in	6 overs 	TARGET : 119
+
+SRH	22/2	in	6 overs
+
+SRH	75/9	in	16 overs
+
+RCB	40/1	in	6 overs 	TARGET : 91
+
+RCB	92/2	in	16 overs 	TARGET : 91
+
+RCB	38/1	in	6 overs
+
+RCB	94/7	in	16 overs
+
+SRH	31/2	in	6 overs 	TARGET : 111
+
+SRH	96/3	in	16 overs 	TARGET : 111
+
+RCB	46/1	in	6 overs
+
+RCB	103/5	in	16 overs
+
+SRH	44/0	in	6 overs 	TARGET : 147
+
+SRH	117/2	in	16 overs 	TARGET : 147
+
+RCB	60/2	in	6 overs
+
+RCB	115/8	in	16 overs
+
+SRH	26/1	in	6 overs 	TARGET : 159
+
+SRH	118/4	in	16 overs 	TARGET : 159
+
+RCB	47/2	in	6 overs
+
+RCB	148/3	in	16 overs
+
+SRH	28/1	in	6 overs 	TARGET : 188
+
+SRH	99/8	in	16 overs 	TARGET : 188
+
+RCB	58/1	in	6 overs
+
+RCB	147/1	in	16 overs
+
+SRH	38/1	in	6 overs 	TARGET : 201
+
+SRH	135/4	in	16 overs 	TARGET : 201
+
+RCB	40/1	in	6 overs
+
+RCB	108/5	in	16 overs
+
+SRH	45/0	in	6 overs 	TARGET : 153
+
+SRH	124/1	in	16 overs 	TARGET : 153
+
+SRH	59/0	in	6 overs
+
+SRH	120/5	in	16 overs
+
+RCB	38/3	in	6 overs 	TARGET : 151
+
+SRH	37/1	in	6 overs
+
+SRH	108/3	in	16 overs
+
+RCB	53/0	in	6 overs 	TARGET : 149
+
+RCB	140/1	in	16 overs 	TARGET : 149
+
+SRH	39/1	in	6 overs
+
+SRH	125/3	in	16 overs
+
+RCB	46/0	in	6 overs 	TARGET : 183
+
+RCB	135/5	in	16 overs 	TARGET : 183
+
+RCB	56/1	in	6 overs
+
+RCB	108/7	in	16 overs
+
+SRH	38/1	in	6 overs 	TARGET : 124
+
+SRH	118/4	in	16 overs 	TARGET : 124
+
+RCB	57/1	in	6 overs
+
+RCB	175/3	in	16 overs
+
+SRH	43/0	in	6 overs 	TARGET : 201
+
+SRH	138/4	in	16 overs 	TARGET : 201
+
+RCB	45/1	in	6 overs
+
+RCB	138/2	in	16 overs
+
+SRH	46/1	in	6 overs 	TARGET : 173
+
+SRH	134/4	in	16 overs 	TARGET : 173
+
+RCB	30/0	in	6 overs
+
+RCB	122/3	in	16 overs
+
+SRH	45/1	in	6 overs 	TARGET : 173
+
+SRH	121/5	in	16 overs 	TARGET : 173

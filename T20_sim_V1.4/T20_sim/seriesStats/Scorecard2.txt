@@ -1,0 +1,93 @@
+
+Match Number 2 of the series.
+
+SRH vs RCB
+
+{'pace': 0.5, 'spin': 1.5, 'flat': 1.0}
+
+RCB won the toss and decide to bowl first.
+
+{'SRH': ['SP Goswami', 'S Dhawan', 'KS Williamson', 'Shakib Al Hasan', 'YK Pathan', 'DJ Hooda', 'CR Brathwaite', 'Rashid Khan', 'B Kumar', 'S Kaul', 'Sandeep Sharma']}
+
+{'RCB': ['CH Gayle', 'V Kohli', 'AB de Villiers', 'KL Rahul', 'SR Watson', 'Sachin Baby', 'STR Binny', 'CJ Jordan', 'Iqbal Abdulla', 'S Aravind', 'YS Chahal']}
+
+Innings 1
+
+Batting Scorecard
+        SRH         		Runs Balls
+     SP Goswami        OUT      4  ( 4  )
+      S Dhawan         OUT      13 ( 18 )
+   KS Williamson       OUT      77 ( 53 )
+  Shakib Al Hasan      OUT      38 ( 31 )
+     YK Pathan         OUT      7  ( 4  )
+      DJ Hooda       Not Out    7  ( 3  )
+   CR Brathwaite     Not Out    16 ( 8  )
+    Rashid Khan        DNB      0  ( 0  )
+      B Kumar          DNB      0  ( 0  )
+       S Kaul          DNB      0  ( 0  )
+   Sandeep Sharma      DNB      0  ( 0  )
+Extras : 3
+
+Bowling Scorecard
+        RCB         	Overs	Runs	Wickets
+      CH Gayle      	 4.0 	 27 	   0   
+     SR Watson      	 2.0 	 21 	   1   
+     CJ Jordan      	 3.0 	 44 	   2   
+   Iqbal Abdulla    	 4.0 	 29 	   0   
+     S Aravind      	 3.0 	 15 	   1   
+     YS Chahal      	 4.0 	 29 	   1   
+
+
+SRH	165/5	in	20 overs
+
+Target - 166
+
+
+Innings 2
+
+Batting Scorecard
+        RCB         		Runs Balls
+      CH Gayle         OUT      15 ( 11 )
+      V Kohli          OUT      75 ( 67 )
+   AB de Villiers      OUT      12 ( 8  )
+      KL Rahul         OUT      20 ( 13 )
+     SR Watson         OUT      16 ( 12 )
+    Sachin Baby        OUT      0  ( 4  )
+     STR Binny       Not Out    6  ( 4  )
+     CJ Jordan         OUT      0  ( 1  )
+   Iqbal Abdulla     Not Out    1  ( 1  )
+     S Aravind         DNB      0  ( 0  )
+     YS Chahal         DNB      0  ( 0  )
+Extras : 4
+
+Bowling Scorecard
+        SRH         	Overs	Runs	Wickets
+  Shakib Al Hasan   	 4.0 	 38 	   0   
+     YK Pathan      	 4.0 	 27 	   1   
+    Rashid Khan     	 4.0 	 30 	   2   
+      B Kumar       	 4.0 	 14 	   2   
+       S Kaul       	 2.0 	 20 	   2   
+   Sandeep Sharma   	 2.0 	 20 	   0   
+
+
+RCB	149/7	in	20 overs 	TARGET : 166
+
+
+
+SRH beat RCB by 16 runs.
+
+
+
+SRH	44/0	in	6 overs
+
+SRH	103/6	in	16 overs
+
+RCB	67/1	in	6 overs 	TARGET : 119
+
+SRH	36/1	in	6 overs
+
+SRH	112/2	in	16 overs
+
+RCB	36/1	in	6 overs 	TARGET : 166
+
+RCB	121/3	in	16 overs 	TARGET : 166
